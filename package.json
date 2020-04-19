@@ -1,14 +1,11 @@
 {
   "name": "rd-template",
-  "description": "redark 的模板文件",
+  "description": "<%=description%>",
   "version": "0.1.0",
   "main": "index.tsx",
-  "author": {
-    "name": "cjh",
-    "email": "1797793818@qq.com",
-    "url": "http://jiahao.site/"
-  },
-  "license": "MIT",
+  "autor": "<%=author%>",
+  "private": "<%=private%>",
+  "license": "<%=license%>",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
