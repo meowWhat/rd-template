@@ -3,7 +3,7 @@
   "description": "<%=description%>",
   "version": "0.1.0",
   "main": "index.tsx",
-  "autor": "<%=author%>",
+  "author": "<%=author%>",
   "private": false,
   "license": "<%=license%>",
   "dependencies": {
